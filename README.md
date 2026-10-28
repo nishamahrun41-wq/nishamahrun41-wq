@@ -20,4 +20,4 @@ Cybersecurity Enthusiast & Linux Learner
 
 [![Linux Skills](https://img.shields.io/badge/Linux_Skills-14%2F86_Acquired-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://labex.io/learn/linux)
 
-📂 **My Linux Scripts & Practice:** [Linux-Practice](./Linux-Practice)
+📂 **My Linux Scripts & Practice:** [Linux-Practice](https://github.com/nishamahrun41-wq/Linux-Practice)
