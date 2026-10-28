@@ -8,7 +8,7 @@ Cybersecurity Enthusiast & Linux Learner
 
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/mahrunnisha.png)](https://tryhackme.com/p/mahrunnisha)
 
-📂 **My Lab Notes & Write-ups:** [TryHackMe-Writeups](./TryHackMe-Writeups)
+📂 **My Lab Notes & Write-ups:** [TryHackMe-Writeups](https://github.com/nishamahrun41-wq/TryHackMe-Writeups)
 
 ---
 
