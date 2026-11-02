@@ -1,23 +1,40 @@
 # Hi there, I'm Mahrun Nisha 👋
-
-Cybersecurity Enthusiast & Linux Learner
-
----
-
-## 🛡️ Cyber Security & TryHackMe
-
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/mahrunnisha.png)](https://tryhackme.com/p/mahrunnisha)
-
-📂 **My Lab Notes & Write-ups:** [TryHackMe-Writeups](https://github.com/nishamahrun41-wq/TryHackMe-Writeups)
+**Cybersecurity Enthusiast & Learner**
 
 ---
 
-## 🐧 Linux Learning (LabEx)
+## 🛡️ Cyber Security & Practice
 
-- **Platform:** [LabEx - Practice Linux Online](https://labex.io/learn/linux)
-- **Progress:** 26 / 86 Skills Acquired 🏆
-- **Active Course:** Become a System Administrator (2 / 10 Labs Completed)
+### 🎯 PortSwigger Web Security Academy
+* **Platform:** [PortSwigger Web Security Academy](https://portswigger.net/web-security)
+* **Focus:** Web Application Security, Vulnerability Analysis & Exploitation
+* 📂 **My Notes & Progress:** [Web-Security-Journey](https://github.com/nishamahrun41-wq/Web-Security-Journey)
 
-[![Linux Skills](https://img.shields.io/badge/Linux_Skills-26%2F86_Acquired-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://labex.io/learn/linux)
+### 🧩 TryHackMe
+* **Platform:** [TryHackMe](https://tryhackme.com/)
+* **Badges & Achievements:**
+  [![TryHackMe](https://img.shields.io/badge/TryHackMe-Cybersecurity-red?style=flat&logo=tryhackme)](https://tryhackme.com/)
+* 📂 **Lab Notes & Write-ups:** [TryHackMe-Writeups](https://github.com/nishamahrun41-wq/TryHackMe-Writeups)
 
-📂 **My Linux Scripts & Practice:** [Linux-Practice](https://github.com/nishamahrun41-wq/Linux-Practice)
+---
+
+## 🐧 Linux Learning & Systems Administration
+
+* **Overview:** Hands-on Linux command-line practice, administration, and system configurations across various platforms.
+* **Featured Platforms:** [LabEx](https://labex.io/), CTFs, and local lab setups.
+* **LabEx Stats:** 26 / 86 Skills Acquired 🏆 | *Active:* Become a System Administrator (2/10 Labs)
+* 📂 **Scripts & Labs Repository:** [Linux-Practice](https://github.com/nishamahrun41-wq/Linux-Practice)
+
+---
+
+## 🐍 Python Programming
+
+### 📜 Python Essentials
+* **Certification / Course:** Cisco Networking Academy / Python Institute (*Python Essentials 1 & 2*)
+* **Focus:** Fundamental syntax, data structures, object-oriented programming, and practical scripts.
+* 📂 **Notes & Code Exercises:** [Python-Essentials](https://github.com/nishamahrun41-wq/Python-Essentials)
+
+---
+
+## 📫 Connect with Me
+* **LinkedIn:** [Mahrun Nisha](https://linkedin.com/in/mahrun-nisha-1812a9199)
