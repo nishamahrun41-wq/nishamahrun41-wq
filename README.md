@@ -1,40 +1,58 @@
 # Hi there, I'm Mahrun Nisha 👋
-**Cybersecurity Enthusiast & Learner**
+### *Aspiring L1 SOC Analyst | Cybersecurity & Network Defense*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahrun_Nisha-blue?style=flat&logo=linkedin)](https://linkedin.com/in/mahrunnisha)
+[![GitHub](https://img.shields.io/badge/GitHub-nishamahrun41--wq-black?style=flat&logo=github)](https://github.com/nishamahrun41-wq)
 
 ---
 
-## 🛡️ Cyber Security & Practice
+## 🛡️ Practical Labs & Write-ups
 
-### 🎯 PortSwigger Web Security Academy
-* **Platform:** [PortSwigger Web Security Academy](https://portswigger.net/web-security)
-* **Focus:** Web Application Security, Vulnerability Analysis & Exploitation
-* 📂 **My Notes & Progress:** [Web-Security-Journey](https://github.com/nishamahrun41-wq/Web-Security-Journey)
-
-### 🧩 TryHackMe
-* **Platform:** [TryHackMe](https://tryhackme.com/)
-* **Badges & Achievements:**
-  [![TryHackMe](https://img.shields.io/badge/TryHackMe-Cybersecurity-red?style=flat&logo=tryhackme)](https://tryhackme.com/)
-* 📂 **Lab Notes & Write-ups:** [TryHackMe-Writeups](https://github.com/nishamahrun41-wq/TryHackMe-Writeups)
+### 🔬 Security Operations & Incident Response Labs
+- **SOC Investigation & Incident Reports** *(In Progress)*
+  - Analyzing Windows Event Logs, Apache Web Server logs, and network packet traces (`.pcap`).
+  - Documenting step-by-step incident containment, triage, and threat identification.
+- **[TryHackMe Write-ups](https://github.com/nishamahrun41-wq/TryHackMe-Writeups)**
+  - Hands-on walk-throughs covering SOC Level 1 fundamentals, threat analysis, and network security rooms.
 
 ---
 
-## 🐧 Linux Learning & Systems Administration
+## 🐧 Systems, Scripting & Core Skills
 
-* **Overview:** Hands-on Linux command-line practice, administration, and system configurations across various platforms.
-* **Featured Platforms:** [LabEx](https://labex.io/), CTFs, and local lab setups.
-* **LabEx Stats:** 26 / 86 Skills Acquired 🏆 | *Active:* Become a System Administrator (2/10 Labs)
-* 📂 **Scripts & Labs Repository:** [Linux-Practice](https://github.com/nishamahrun41-wq/Linux-Practice)
-
----
-
-## 🐍 Python Programming
-
-### 📜 Python Essentials
-* **Certification / Course:** Cisco Networking Academy / Python Institute (*Python Essentials 1 & 2*)
-* **Focus:** Fundamental syntax, data structures, object-oriented programming, and practical scripts.
-* 📂 **Notes & Code Exercises:** [Python-Essentials](https://github.com/nishamahrun41-wq/Python-Essentials)
+- **[Linux Practice & Administration](https://github.com/nishamahrun41-wq/Linux-Practice)**
+  - Hands-on command-line practice, log manipulation (`grep`, `awk`, `cut`), shell navigation, and server administration (LabEx & OverTheWire Bandit).
+- **[Python Essentials](https://github.com/nishamahrun41-wq/Python-Essentials)**
+  - Code exercises and scripts developed while completing Cisco Networking Academy / Python Institute modules.
 
 ---
 
-## 📫 Connect with Me
-* **LinkedIn:** [Mahrun Nisha](https://linkedin.com/in/mahrun-nisha-1812a9199)
+## 🛠️ Tech Stack & Tools
+
+| Area | Tools & Technologies |
+| :--- | :--- |
+| **Operating Systems** | Linux (Ubuntu/Debian), Windows Server |
+| **Networking & Analysis** | Cisco Packet Tracer, Wireshark, Nmap/Zenmap, TCP/IP, DNS, HTTP/HTTPS |
+| **Defensive Tools** | Splunk (Intro), Microsoft Sentinel (KQL Sandbox), Fortinet FortiGate Basics |
+| **Scripting & Languages** | Python, Bash |
+| **Platforms & Labs** | Cisco NetAcad, IBM SkillsBuild, TryHackMe, LabEx, OverTheWire |
+
+---
+
+## 📜 Certifications & Training
+
+- **Cisco Networking Academy:**
+  - 🎓 *Introduction to Packet Tracer* *(Earned)*
+  - 📚 *Introduction to Cybersecurity* *(In Progress)*
+  - 📚 *Endpoint Security* & *Network Defense* *(Upcoming)*
+- **IBM SkillsBuild:**
+  - 📚 *Exploring Cybersecurity*
+  - 📚 *Network Scanning with Zenmap* *(Planned)*
+- **Fortinet Training Institute:**
+  - 📚 *NSE 1*
+  - 📚 *NSE 2*
+  - 📚 *NSE 3*
+- **Python Institute:**
+  - 📚 *Python Essentials 1*
+  - 📚 *Python Essentials 2*
+
+---
