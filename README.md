@@ -42,10 +42,10 @@
 
 - **Cisco Networking Academy:**
   - 🎓 *Introduction to Packet Tracer* *(Earned)*
-  - 📚 *Introduction to Cybersecurity* *(In Progress)*
+  - 📚 *Introduction to Cybersecurity* *(Earned)*
   - 📚 *Endpoint Security* & *Network Defense* *(Upcoming)*
 - **IBM SkillsBuild:**
-  - 📚 *Exploring Cybersecurity*
+  - 📚 *Exploring Cybersecurity* *(Planned)*
   - 📚 *Network Scanning with Zenmap* *(Planned)*
 - **Fortinet Training Institute:**
   - 📚 *NSE 1*
